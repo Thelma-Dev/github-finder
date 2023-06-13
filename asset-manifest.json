@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-finder/static/css/main.af07916f.css",
+    "main.js": "/github-finder/static/js/main.af52acc6.js",
+    "index.html": "/github-finder/index.html",
+    "main.af07916f.css.map": "/github-finder/static/css/main.af07916f.css.map",
+    "main.af52acc6.js.map": "/github-finder/static/js/main.af52acc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af07916f.css",
+    "static/js/main.af52acc6.js"
+  ]
+}
